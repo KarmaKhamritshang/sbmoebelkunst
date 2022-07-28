@@ -1,7 +1,33 @@
 body {
-    text-align: center;
+    margin: 0;
+    background-color: rgba(93, 181, 170, 0.801);
 }
 
-#header {
-    font-size: 38px;
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 13px;
+    padding: 15px;
+    background-color: rgb(150, 214, 208);
+    margin: 0;
 }
+
+ul {
+    list-style-type: none;
+}
+
+#navtext {
+    color: rgb(255, 255, 255);
+    font-weight: 900;   
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: black 2px 3px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+}
+
+img {
+    size: 100p;
+}
+
