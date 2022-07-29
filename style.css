@@ -16,10 +16,6 @@ ul {
     list-style-type: none;
 }
 
-a {
-    text-decoration: none;
-}
-
 #navtext {
     color: rgb(0, 0, 0);
     font-weight: 900;   
@@ -29,5 +25,15 @@ a {
     padding-right: 30px;
     padding-bottom: 5px;
 }
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 36px;
+    height: auto;
+}
+
 
 
